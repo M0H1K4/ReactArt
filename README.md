@@ -1,1 +1,1 @@
-#ReactArt live: https://m0h1k4.github.io/ReactArt/
+    ReactArt 🎨: Explore the creative side of React with a sleek user interface, powered by Vite. This project combines the art of web development with the power of modern technology. Dive into the world of dynamic, interactive web apps with ReactArt!
